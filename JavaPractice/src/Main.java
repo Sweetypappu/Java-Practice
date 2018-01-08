@@ -300,3 +300,4 @@ class Camera extends Machine1
   }*/
 
 
+//I am adding this line to check in github for the changes.
